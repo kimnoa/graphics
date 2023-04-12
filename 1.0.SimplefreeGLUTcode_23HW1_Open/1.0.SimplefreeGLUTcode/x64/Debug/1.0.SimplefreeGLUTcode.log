@@ -1,0 +1,20 @@
+﻿  HW 개인 수정본.cpp
+C:\Users\kang9\Desktop\C++ 개발\그래픽스 과제용\1.0.SimplefreeGLUTcode_23HW1_Open\1.0.SimplefreeGLUTcode\HW 개인 수정본.cpp(151,36): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kang9\Desktop\C++ 개발\그래픽스 과제용\1.0.SimplefreeGLUTcode_23HW1_Open\1.0.SimplefreeGLUTcode\HW 개인 수정본.cpp(152,36): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kang9\Desktop\C++ 개발\그래픽스 과제용\1.0.SimplefreeGLUTcode_23HW1_Open\1.0.SimplefreeGLUTcode\HW 개인 수정본.cpp(158,38): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kang9\Desktop\C++ 개발\그래픽스 과제용\1.0.SimplefreeGLUTcode_23HW1_Open\1.0.SimplefreeGLUTcode\HW 개인 수정본.cpp(159,38): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kang9\Desktop\C++ 개발\그래픽스 과제용\1.0.SimplefreeGLUTcode_23HW1_Open\1.0.SimplefreeGLUTcode\HW 개인 수정본.cpp(165,30): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kang9\Desktop\C++ 개발\그래픽스 과제용\1.0.SimplefreeGLUTcode_23HW1_Open\1.0.SimplefreeGLUTcode\HW 개인 수정본.cpp(175,34): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kang9\Desktop\C++ 개발\그래픽스 과제용\1.0.SimplefreeGLUTcode_23HW1_Open\1.0.SimplefreeGLUTcode\HW 개인 수정본.cpp(176,12): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kang9\Desktop\C++ 개발\그래픽스 과제용\1.0.SimplefreeGLUTcode_23HW1_Open\1.0.SimplefreeGLUTcode\HW 개인 수정본.cpp(177,12): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kang9\Desktop\C++ 개발\그래픽스 과제용\1.0.SimplefreeGLUTcode_23HW1_Open\1.0.SimplefreeGLUTcode\HW 개인 수정본.cpp(188,37): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kang9\Desktop\C++ 개발\그래픽스 과제용\1.0.SimplefreeGLUTcode_23HW1_Open\1.0.SimplefreeGLUTcode\HW 개인 수정본.cpp(189,12): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kang9\Desktop\C++ 개발\그래픽스 과제용\1.0.SimplefreeGLUTcode_23HW1_Open\1.0.SimplefreeGLUTcode\HW 개인 수정본.cpp(190,12): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kang9\Desktop\C++ 개발\그래픽스 과제용\1.0.SimplefreeGLUTcode_23HW1_Open\1.0.SimplefreeGLUTcode\HW 개인 수정본.cpp(450,19): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kang9\Desktop\C++ 개발\그래픽스 과제용\1.0.SimplefreeGLUTcode_23HW1_Open\1.0.SimplefreeGLUTcode\HW 개인 수정본.cpp(450,13): warning C4244: '인수': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kang9\Desktop\C++ 개발\그래픽스 과제용\1.0.SimplefreeGLUTcode_23HW1_Open\1.0.SimplefreeGLUTcode\HW 개인 수정본.cpp(491,23): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kang9\Desktop\C++ 개발\그래픽스 과제용\1.0.SimplefreeGLUTcode_23HW1_Open\1.0.SimplefreeGLUTcode\HW 개인 수정본.cpp(492,23): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kang9\Desktop\C++ 개발\그래픽스 과제용\1.0.SimplefreeGLUTcode_23HW1_Open\1.0.SimplefreeGLUTcode\HW 개인 수정본.cpp(493,23): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kang9\Desktop\C++ 개발\그래픽스 과제용\1.0.SimplefreeGLUTcode_23HW1_Open\1.0.SimplefreeGLUTcode\HW 개인 수정본.cpp(494,23): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kang9\Desktop\C++ 개발\그래픽스 과제용\1.0.SimplefreeGLUTcode_23HW1_Open\1.0.SimplefreeGLUTcode\HW 개인 수정본.cpp(536,35): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  1.0.SimplefreeGLUTcode.vcxproj -> C:\Users\kang9\Desktop\C++ 개발\그래픽스 과제용\1.0.SimplefreeGLUTcode_23HW1_Open\x64\Debug\1.0.SimplefreeGLUTcode.exe
